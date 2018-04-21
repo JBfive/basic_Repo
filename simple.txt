@@ -5,3 +5,5 @@ made simple.txt
 opened simple.txt
 started typing this.
 
+add, commit, and push done.
+after the space above, we added more info into the text and then we will push this to GitHub
