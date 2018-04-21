@@ -1,0 +1,7 @@
+created basic_repo on GitHub
+created basic_repo on my machine with terminal
+went into dir
+made simple.txt
+opened simple.txt
+started typing this.
+
